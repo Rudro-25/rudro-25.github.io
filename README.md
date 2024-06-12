@@ -58,4 +58,5 @@ This work is published under [MIT][mit] License.
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [use-template]: https://github.com/cotes2020/chirpy-starter/generate
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE\
+[Video] https://www.youtube.com/watch?v=m1RYsmOMPLs&ab_channel=AhmedTremo
